@@ -16,12 +16,12 @@
       bitArray: [],
     },
     "/": [
-      "static/chunks/75fc9c18-4ea5f7cdd04d7dd8.js",
-      "static/chunks/438-f958fcbb8f7d9263.js",
-      "static/chunks/pages/index-0a8fd098246a5ee3.js",
+      "static/chunks/75fc9c18-e1e6da2e9ffc420d.js",
+      "static/chunks/438-054fc49e516e3fa8.js",
+      "static/chunks/pages/index-cfb54ebb2850c031.js",
     ],
     "/404": ["static/chunks/pages/404-5611e9f8ae98e347.js"],
-    "/_error": ["static/chunks/pages/_error-fde50cb7f1ab27e0.js"],
+    "/_error": ["static/chunks/pages/error-fde50cb7f1ab27e0.js"],
     sortedPages: ["/", "/404", "/_app", "/_error"],
   };
 })(0, 0, 0)),
